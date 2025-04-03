@@ -37,7 +37,7 @@ go build -o submitter
 Submit a single URL:
 
 ```bash
-./submitter cmd --urls=https://example.com,https://example.com --engines=baidu,bing,google
+./submitter cmd --urls=https://example.com,https://example.com --engines=baidu,bing,google --proxy=socks5://[user:pass@]host:port)
 ```
 
 ### HTTP API
@@ -46,6 +46,9 @@ Start the API server:
 
 ```bash
 submitter http --host=0.0.0.0 --port=8080
+
+Method: POST
+Data: {"urls":["https://example.com"], "engines": ["google"], "proxy":"socks5://1.1.1.1:123)"}
 ```
 
 ## Configuration
