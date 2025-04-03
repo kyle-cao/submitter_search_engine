@@ -1,6 +1,6 @@
 # URL Submission Tool
 
-![Go](https://img.shields.io/badge/Go-1.18+-blue.svg)
+![Go](https://img.shields.io/badge/Go-1.23+-blue.svg)
 ![Gin](https://img.shields.io/badge/Gin-Web%20Framework-green.svg)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
