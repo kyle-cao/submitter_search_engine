@@ -1,0 +1,23 @@
+{
+    "baidu": {
+        "site": "https://flb.cc",
+        "token": "mEq1VvJ0K0BX0Gzd"
+    },
+    "bing": {
+        "siteUrl": "https://flb.cc",
+        "apiKey": "b96565727b7e4131adb978de8a525742"
+    },
+    "google": {
+        "type": "service_account",
+        "project_id": "carbide-sweep-455504-k2",
+        "private_key_id": "70a374c0f8374630fb0be595933ba2b922cfdf0b",
+        "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTJ78dArlNJWXp\n+3n6+xdfrOmIZNOEyWySuPxiCalrn4qIiuaS8EYKIj9IqStFzfoO3YCNgIvhfLY3\nDx+DiaOgBwrixTYX1kQA94ys4Em3Oo/XD/gS5CDS2BE8e3Eu0+G0Xrwc2wq3VCuF\neL2RA/cNdJM16wEQ1mglZZ/IFjHQx+xRUnKOIy+xf7/b6sh/iOhcO0DxO9ybvCHf\nIIl0HCYK6cXkhABVaIWNi1qDMkWejP0J0MelbNROT2eOBto36XLqi/5iesWhfL7P\nL5emNR0hVNeC0IWvQq5DLzVwODRmCoF1VTIj1hFFAv9qQp9qemhBCdh+3aKjho+G\n1CT+156xAgMBAAECggEAXH0SZwCkbbgt1blDCr4k1NGGUSnoxEb9+Z5xXffhb7So\nF3rP2BjKdPHfSlJfE+pO12gKQPDHVHMt1RwYr6MAOr4a9I1xTiuaCdpkkeyEHW/X\nRVpHTO8DuZbOpfFj+CDywfCk8Pa40OhbT9E9J2HXOtuPB5TyGI/xej/zJs8h7tJ3\nWnQsQRJR9KlYzAGPJC0PB9ueP7TdN5YysVIXul8M9AmK2guV74rSunbF2uzYRH+8\n3FD9toRtSt+xl2ioM+gIJOkYUptJePLRkg1iEdEYDPZFQGJCbEjkx6yz16/Ki3MH\nc01esDHH6vTfFSVXiO/RFZ8NaNFqOz+RNPflp/JjSQKBgQDvb06euV6C/BPdLXOS\nYgEuAx3YGZMUo247FCkjzXL7fAY5zjorvd3tJfCa2/OLpwBXsSoujWZuYthqSN+5\nGjExewIxRbVYoi2dEvi/P3wgqx3YObceVppFOy162QekhiCH7ooXtySUvDAwXuV6\nNduMXQiuLAtAbDBzeHQIRYISbwKBgQDhw5K5HpqpZne7wFWLbWFQ9wLZzcSrG3bZ\nuS1JwFsD05azqzcMn2HotW1oHe/zuc0X0TSgMmvHk/0BPNtdkzie7G7EyR+1+uap\nZ+UepYND7hsCuNiZLNvW/C+knPjJa5v4SvtipXqapyM7HM285e8VxgDRN0+1M3xP\na0X1hZdw3wKBgEYA3BKqDcjsHH6pIEYnI0MppBsfdxIsqjjZryGJmtmOLF/QPM+3\nJmCEnDEap70n6YC6CqQrsUwK2E1S2x5KWyGlXkG7qMauO/nVpyZ7UDZY8VPbo/9Z\nwKcHI0fslkBy+qXjhzph0G8wCkLKK/usLXF/bd9Gf0+pkgzgpcQZVms/AoGBAMeB\n6BhVlkGbPrYZWr9y8qv1DXziXSkEhTwUa5QgO44fHq8539T0yDY4li2LPzA4AqlI\nhGQJCrv86Hl+iTChWEkBEUYvoilURyBvosc5Zs3SDeaS6T47qS7L/2JOIYEF6ng5\n8vsS10zx5K1pX9rNq0Gnj7NTWMn9bJ5WYyV8X/8rAoGBAIiYDQ0wC+ZXxldF/cVW\n059D/nu8urFPCT9/NittDXtLumvqr3656rM9HTqYX4UdtbvrQf5YnoafKXbM2CjZ\nmM+PdzA8ZkSOLS/WbFdlo3nbHyDCisNhFuHhMAhHweB3sKT8H6jm8cs63cpCHVDZ\nSrNjD9cV8PbkTQ3SehqTN1wx\n-----END PRIVATE KEY-----\n",
+        "client_email": "flb-cc@carbide-sweep-455504-k2.iam.gserviceaccount.com",
+        "client_id": "115563939801901875144",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flb-cc%40carbide-sweep-455504-k2.iam.gserviceaccount.com",
+        "universe_domain": "googleapis.com"
+    }
+}
